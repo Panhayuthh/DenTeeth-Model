@@ -1,0 +1,9 @@
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth Model  # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: caries
+  1: normal
+  2: hypodontia
