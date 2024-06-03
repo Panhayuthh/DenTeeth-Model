@@ -1,0 +1,18 @@
+names:
+- CALCULUS
+- Caries
+- Carrier
+- Gingivitis
+- Tooth Discoloration
+- object
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: dentiso
+  url: https://universe.roboflow.com/dentisto-hixvs/dentiso/dataset/2
+  version: 2
+  workspace: dentisto-hixvs
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth_Model\Dentiso-2
+test: ../test/images
+train: train/images
+val: train/images

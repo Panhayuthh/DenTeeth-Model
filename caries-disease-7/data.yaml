@@ -8,7 +8,7 @@ roboflow:
   url: https://universe.roboflow.com/duong-duc-cuong/caries-disease/dataset/7
   version: 7
   workspace: duong-duc-cuong
-path: C:\Users\PC\Desktop\Programming\Python\Denteeth Model\caries-disease-7
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth_Model\caries-disease-7
 test: ../test/images
 train: train/images
 val: train/images
