@@ -1,0 +1,15 @@
+names:
+- '0'
+- '1'
+- da
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: yolov5-ldpxi
+  url: https://universe.roboflow.com/new-workspace-d4ab7/yolov5-ldpxi/dataset/1
+  version: 1
+  workspace: new-workspace-d4ab7
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth Model\yolov5-1
+test: ../test/images
+train: train/images
+val: train/images
