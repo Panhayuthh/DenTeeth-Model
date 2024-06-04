@@ -8,6 +8,7 @@ roboflow:
   url: https://universe.roboflow.com/roboflow-100/cavity-rs0uf/dataset/3
   version: 3
   workspace: roboflow-100
-test: ../test/images
-train: cavity-3/train/images
-val: cavity-3/valid/images
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth_Model\cavity-3
+test: test/images
+train: train/images
+val: valid/images
