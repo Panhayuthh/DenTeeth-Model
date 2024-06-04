@@ -1,0 +1,13 @@
+names:
+- cavity
+- normal
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: cavity-rs0uf
+  url: https://universe.roboflow.com/roboflow-100/cavity-rs0uf/dataset/3
+  version: 3
+  workspace: roboflow-100
+test: ../test/images
+train: cavity-3/train/images
+val: cavity-3/valid/images
