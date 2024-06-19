@@ -1,0 +1,19 @@
+names:
+- calculus
+- cavities
+- maligned
+- missing
+- plaque
+- spacing
+- stains
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: dadad12
+  url: https://universe.roboflow.com/arshs-workspace-new2/dadad12/dataset/3
+  version: 3
+  workspace: arshs-workspace-new2
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth_Model\dadad12-3
+test: test/images
+train: train/images
+val: valid/images
