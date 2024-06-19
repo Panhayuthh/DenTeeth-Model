@@ -15,4 +15,4 @@ roboflow:
 path: C:\Users\PC\Desktop\Programming\Python\Denteeth_Model\Dentiso-2
 test: ../test/images
 train: train/images
-val: train/images
+val: valid/images

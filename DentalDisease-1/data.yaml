@@ -1,0 +1,18 @@
+names:
+- Gum Swelling
+- calculus
+- cavities
+- maligned
+- plaque
+- stains
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: dentaldisease
+  url: https://universe.roboflow.com/project-qhjkw/dentaldisease/dataset/1
+  version: 1
+  workspace: project-qhjkw
+path: C:\Users\PC\Desktop\Programming\Python\Denteeth_Model\DentalDisease-1
+test: test/images
+train: train/images
+val: valid/images
