@@ -19,3 +19,8 @@ Thumbs.db
 */train/
 */test/
 */vaild/
+*/.gitignore
+*/.ipynb_checkpoints/
+*/.vscode/
+*/.idea/
+*/.pytest_cache/
