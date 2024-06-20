@@ -20,7 +20,6 @@ Thumbs.db
 */test/
 */vaild/
 */.gitignore
-*/.ipynb_checkpoints/
 */.vscode/
 */.idea/
 */.pytest_cache/
