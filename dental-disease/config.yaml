@@ -4,6 +4,6 @@ val: val\images  # val images (relative to 'path')
 
 # Classes
 names:
-  0: caries
+  0: cavities
   1: normal
   2: hypodontia
